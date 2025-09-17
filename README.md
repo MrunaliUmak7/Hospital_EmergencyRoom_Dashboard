@@ -1,12 +1,10 @@
-# Hospital_EmergencyRoom_Dashboard
-
 # Hospital Emergency Room (ER) Dashboard
 
 This project presents an interactive **Power BI dashboard** to analyze Emergency Room (ER) data, providing hospital administrators and healthcare professionals with actionable insights on patient flow, admission rates, and performance metrics.
 
 ---
 
-## 🎯 Objective
+## Objective
 - Monitor ER admissions and discharge patterns  
 - Track patient inflow trends by date, time, and day of the week  
 - Identify key metrics such as admission rate, average wait time, and patient demographics  
@@ -37,7 +35,7 @@ Key fields include:
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 - Total ER Visits and Admissions  
 - Admission Rate (calculated using DAX)  
 - Patient Trends by Weekday and Hour  
